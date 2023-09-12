@@ -1,2 +1,2 @@
 # Coursera
-Pruebas 
+Cheking some knowledge of coursera
